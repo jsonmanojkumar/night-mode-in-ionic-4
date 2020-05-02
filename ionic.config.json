@@ -1,0 +1,7 @@
+{
+  "name": "DarkMode",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
